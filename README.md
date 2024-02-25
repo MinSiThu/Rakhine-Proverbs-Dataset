@@ -2,6 +2,10 @@
 
 Proverbs in Rakhine/Arakan Language
 
+<img src="https://github.com/MinSiThu/Rakhine-Proverbs-Dataset/blob/main/Rakhine%20Proverbs%20dataset%20cover.png" width=500 height=300 alt="Rakhine Proverbs Dataset Cover Photo"/>
+
+
+
 ## Dataset
 
 - Rakhine Proverbs Dataset on Kaggle - [Link Here](https://www.kaggle.com/datasets/minsithu/rakhine-proverbs)

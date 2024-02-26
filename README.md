@@ -20,6 +20,11 @@ I release this "Rakhine Proverbs" dataset for further research and studies in th
 
 The proverbs are summarized and extracted from "ဥပမာစုံ၊ ရခိုင်စကားပုံ။" ကျမ်း by "အရှင်စက္ကိန္ဒ, အရှင်ဝါသဝ" published in 1996, August.
 
+## How to cite
+```
+Min Si Thu, Rakhine Proverbs Dataset, Feb 2024, https://github.com/MinSiThu/Rakhine-Proverbs-Dataset
+```
+
 The release of this dataset is a part of [MyanmarGPT-Movement](https://github.com/MyanmarGPT-Movement), which is an AI movement in Myanmar to promote education and research studies in Myanmar.
 
 For further information, contact [Min Si Thu](https://www.linkedin.com/in/min-si-thu/).
